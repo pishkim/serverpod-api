@@ -1,0 +1,15 @@
+{
+  "moduleName": "kim_app",
+  "tables": [],
+  "installedModules": [
+    {
+      "module": "serverpod",
+      "version": "20240115074235544"
+    },
+    {
+      "module": "kim_app",
+      "version": "20240202191516893"
+    }
+  ],
+  "migrationApiVersion": 1
+}

@@ -1,0 +1,6 @@
+class: Article
+fields:
+title:String
+content:String
+publishedOn: DateTime
+isPrime: bool

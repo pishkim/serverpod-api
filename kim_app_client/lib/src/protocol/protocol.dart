@@ -10,8 +10,8 @@
 library protocol; // ignore_for_file: no_leading_underscores_for_library_prefixes
 
 import 'package:serverpod_client/serverpod_client.dart' as _i1;
-import 'example.dart' as _i2;
-export 'example.dart';
+import 'models/example.dart' as _i2;
+export 'models/example.dart';
 export 'client.dart';
 
 class Protocol extends _i1.SerializationManager {
